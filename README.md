@@ -1,1 +1,1 @@
-task 6 alamin robotic championship
+task 6 for alamin robotic championship precourse
